@@ -137,5 +137,3 @@ while True:
     lightSections(simon)
     time.sleep(1)
     check_user(simon)
-
-    
